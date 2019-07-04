@@ -69,3 +69,7 @@ img.contactImg:hover{
   font-weight: 300;
   color:#FFF;
 }
+li.tech {
+    direction: ltr;
+    text-align: left;
+}
